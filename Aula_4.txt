@@ -1,0 +1,16 @@
+  116  git status
+  117  clear
+  118  mkdir .vscode
+  119  touch conf.txt .vscode/
+  120  ls .vscode/
+  121  ls .vscode/
+  122  mv conf.txt .vscode/
+  123  ls .vscode/
+  124  ls
+  125  ls -a
+  126  git status
+  127  echo ".vscode/" > .gitignore
+  128  git status
+  129  git add .gitignore
+  130  git commit -m "Adicionado arquivo .gitignore"
+  131  git status
