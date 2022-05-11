@@ -1,8 +1,4 @@
-Mensaje
-1
-2
-3
-4
-5
-cd Programación
-##Aula 1
+# Aprendendo usar o Git
+
+## Aula 1
+-Sobre a Aula 1
